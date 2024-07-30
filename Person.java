@@ -38,7 +38,5 @@ public class Person {
         return gender;
     }
 
-    public void printExtraInfo() {
-        // Implementation in subclasses
-    }
+  
 }
